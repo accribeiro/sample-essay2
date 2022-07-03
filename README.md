@@ -3,7 +3,7 @@
 <param ve-config 
        title="Loren ipsum"
        author="Ana Carmona-Ribeiro"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/7/73/Vincenzo_foppa%2C_giovane_che_legge_cicerone%2C_dal_banco_mediceo_di_milano_03.JPG"
+       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/2/2a/Lorem_space_ipsum.svg"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
