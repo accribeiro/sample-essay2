@@ -39,7 +39,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Linotype_operators_of_the_Chicago_Defender.png/1600px-Linotype_operators_of_the_Chicago_Defender.png?20100315070257">
+       url="https://commons.wikimedia.org/wiki/File:Linotype_operators_of_the_Chicago_Defender.png">
 
 ## Map
 
