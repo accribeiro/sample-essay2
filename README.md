@@ -3,7 +3,7 @@
 <param ve-config 
        title="Loren ipsum"
        author="Ana Carmona-Ribeiro"
-       banner="[https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg](https://images.squarespace-cdn.com/content/v1/600fe930ef75ed1745c18fbe/1619378166295-WJ1ZOW83PWM3I954MK0D/DEZAINE_de.onde.vem.o.lorem.ipsum_AdeliumCastelo.getlorem.jpg)" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
