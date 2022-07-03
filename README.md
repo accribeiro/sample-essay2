@@ -47,8 +47,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
 
 ## Map
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
+Hampden-Sydney College has unique bragging rights - it is the tenth oldest institution of higher learning in the United States (1775), and is the oldest of the country's few remaining private colleges that specializes in educating and developing young men.
 <param ve-map 
       center="37.24139156179433, -78.46268052903069" 
       zoom="10" 
