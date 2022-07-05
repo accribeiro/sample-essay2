@@ -32,7 +32,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 ## Image
 
-Linotype operators of the _Chicago Defender_, Negro newspaper. Chicago, Illinois. [^1]
+Linotype operators of the _Chicago Defender_, Negro newspaper. Chicago, Illinois, 1941. [^1]
 <param ve-image 
        label="Linotype operators of the Chicago Defender" 
        description="photograph by XXXX" 
