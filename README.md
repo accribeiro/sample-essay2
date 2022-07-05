@@ -34,7 +34,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 Linotype operators of the _Chicago Defender_, Negro newspaper. Chicago, Illinois. [^1]
 <param ve-image 
-       label="Girl with a Pearl Earring" 
+       label="Linotype operators of the _Chicago Defender_" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/8/8b/Linotype_operators_of_the_Chicago_Defender.png">
