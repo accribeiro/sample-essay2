@@ -38,7 +38,7 @@ Linotype operators of the _Chicago Defender_, Negro newspaper. Chicago, Illinois
        description="photograph by XXXX" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/8/8b/Linotype_operators_of_the_Chicago_Defender.png"
-       fit="contain">
+       fit="cover">
 
 ## Map
 
